@@ -1,0 +1,19 @@
+---
+title: "The role of data science in ecology and environmental sciences"
+author: "Andy Hoegh"
+format: pdf
+editor: visual
+---
+
+## Abstract
+
+Statistics and data science play a fundamental role in the environmental and ecological sciences. In particular, Bayesian analysis, with the availability of computing and user-friendly software or perhaps due to pressures from journals favoring “more complicated” analysis, has become increasingly common in these fields. This presentation will include a gentle overview of the philosophy of Bayesian analysis and debunk the myth that Bayesian approaches are more complicated than standard frequentist analysis taught in most statistical coursework..
+
+The talk will highlight the role of Bayesian data science as a useful tool for answering scientific research questions motivated by a collection of pictures and stories from collaborating with scientists. Applications will include animal movement models for estimating grizzly bear range from telemetric animal movement data, occupancy models for the detection of aquatic invasive species using environmental DNA, long-term vegetation monitoring of sagebrush communities, detection of hotspots and remediation of unexploded ordnances, and Bayesian network models for Hendra virus spillover from flying foxes.
+
+The talk will be accessible for those with limited statistical backgrounds and provide opportunities for Q-and-A.
+
+## Bio
+
+Dr. Andrew Hoegh is on sabbatical from the statistics faculty at Montana State University and is currently a Visiting Research Fellow in the Centre for Planetary Health and Food Security at Griffith University. Andy's research interests lie at the intersection of scientific questions in ecology and the environmental sciences, Bayesian analysis, and complex data structures. Andy is also active in curriculum development for undergraduate and graduate programs in statistics and data science.
+
