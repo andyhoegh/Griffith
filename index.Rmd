@@ -445,7 +445,7 @@ with Christian Stratton and Kathi Irvine
 ## Goal: Evaluate Monitoring Plan
 
 ```{r, out.width = "500px"}
-knitr::include_graphics("Tetonmap.png")
+knitr::include_graphics("Tetonmap.jpg")
 ```
 
 ## Data collection
