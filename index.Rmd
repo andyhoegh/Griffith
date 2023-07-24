@@ -377,7 +377,7 @@ knitr::include_graphics("DetectionProb.png")
 ### Christian Stratton with Adam Sepulveda
 
 ```{r, out.width = "600px"}
-knitr::include_graphics("water.png")
+knitr::include_graphics("water.jpg")
 ```
 
 ## Goal: Develop computationally-efficient software for eDNA surveillance
